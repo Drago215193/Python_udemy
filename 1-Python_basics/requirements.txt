@@ -1,0 +1,8 @@
+#Commands
+condacreate -p venv python==3.12                 #to Create a python environment
+conda activate venv/                             #to activate the environment
+python file_name.py                              #to run any py file directly in terminal
+
+
+#required packages
+ipykernel                                        #necessary package to run jupyter notebooks
